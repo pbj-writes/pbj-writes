@@ -15,9 +15,9 @@ MOAR TECHNICAL SKILLZ.
 It's in the name **technical** writer. Specifically, I want to learn more about markdown, APIs, gRPC, CSS, JSON, YAML, docs-as-code, and static site generators. 
 
 ## Fun Facts™
-- Cat Dad to Donut <br>
+- Cat Dad to Donut 🍩 <br>
     ![Donut](/pics/IMG_4917.jpeg)     
-- Basketball was my first love 
-- Cyclistimo 
-- Cinephile 
-- (lite) Gamer 
+- Basketball was my first love 🏀
+- Cyclistimo 🚲
+- Cinephile 🎥 🍿
+- (lite) Gamer 🕹️
