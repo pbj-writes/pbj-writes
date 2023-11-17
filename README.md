@@ -2,10 +2,10 @@
 `PBJ` is my secret name.
 
 ## What I do 
-A technical writer in a Technical Publications and Localization department at a ...company
+A technical writer in a Technical Publications and Localization department at a ...company.
 
 ## What's my writing assignment? 
-I'm the writer for a cloud platform product
+I'm thee writer for a cloud platform product.
 
 Previously, I was assigned to fraud products and worked as a writer/DevOps-min on a lean professional services team that delivered bespoke optimization solutions.
 
