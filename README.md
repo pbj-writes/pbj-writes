@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm PBJ 
+`PBJ` is my secret name.
 
-<!--
-**pbj-writes/pbj-writes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do 
+A technical writer in a Technical Publications and Localization department at a ...company
 
-Here are some ideas to get you started:
+## What's my writing assignment? 
+I'm the writer for a cloud platform product
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I was assigned to fraud products and worked as a writer/DevOps-min on a lean professional services team that delivered bespoke optimization solutions.
+
+## What I need to learn 
+MOAR TECHNICAL SKILLZ. 
+
+It's in the name **technical** writer. Specifically, I want to learn more about markdown, APIs, gRPC, CSS, JSON, YAML, docs-as-code, and static site generators. 
+
+## Fun Facts™
+- Cat Dad to Donut <br>
+    <img src=""
+         alt="Donut with Donuts"
+         style="float: right; margin-right: 10px;" width="250px"/>
+
+     
+- Basketball was my first love 
+- Cyclistimo 
+- Cinephile 
+- (lite) Gamer 
