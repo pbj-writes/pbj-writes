@@ -23,7 +23,7 @@ It's in the name **technical** writer. Specifically, I want to learn more about 
 - (lite) Gamer 🕹️
 
 ## What am I working on?
-A portfolio/blog site, [pbjwrites.info](https://pbjwrites.info). Most of my repos contribute to my site. For example, the `hugo_portfolio`, `dita_portfolio`, and `bicycle_api` repos all contribute to this site. 
+A portfolio/blog site, [pbjwrites.info](https://pbjwrites.info). Most of my repos contribute to my site. For example, the `portfolio_hugo`, `dita_portfolio`, and `bicycle_api` repos all contribute to this site. 
 
 Site Layout
 | Repo          | Site Relationship |
