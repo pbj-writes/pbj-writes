@@ -28,7 +28,7 @@ A portfolio/blog site, [pbjwrites.info](https://pbjwrites.info). Most of my repo
 Site Layout
 | Repo          | Site Relationship |
 | ------------- | -------------     |
-| hugo_portfolio  | Main website infrastructure for [pbjwrites.info](https://pbjwrites.info) |
+| portfolio_hugo  | Main website infrastructure for [pbjwrites.info](https://pbjwrites.info) |
 | dita_portofio   | Sub-domain for [dita.pbjwrites.info](https://dita.pbjwrites.info)        |
 | bicycle_api     | Sub-domain for [docs.pbjwrites.info](https://docs.pbjwrites.info)        |
 
