@@ -2,12 +2,12 @@
 `PBJ` is my secret name.
 
 ## What I do 
-A technical writer in a Technical Publications and Localization department at a ...company.
+I'm a content developer, writer, librarian. 
 
 ## What's my writing assignment? 
-I'm thee writer for a cloud platform product.
+I'm thee doc engineer for a cloud platform product.
 
-Previously, I was assigned to fraud products and worked as a writer/DevOps-min on a lean professional services team that delivered bespoke optimization solutions.
+Previously, I was assigned to fraud products and worked as a writer/DevOpser on a lean professional services team that delivered bespoke optimization solutions.
 
 ## What I need to learn 
 MOAR TECHNICAL SKILLZ. 
